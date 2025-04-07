@@ -45,3 +45,4 @@ React is declarative which means you only declare the target state and then reac
 4. Package.json: contains information about the project name, version, dependencies
 
 5. Vite.config.js : Contains info to configure vite app
+   
