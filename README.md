@@ -9,6 +9,7 @@ Used to build dynamic and interative user interfaces
 It is the most widely used JS library mainly used for frontend
 
 
+
 #Working of Dom(Document object Model)
 Browser takes HTML and creates DOm
 Js helps us modify dom based on user actions and events
