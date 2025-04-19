@@ -36,7 +36,6 @@ React is declarative which means you only declare the target state and then reac
 # Node Project Structure
 
 1. Node Modules: has all the installed node packages
-
 2. Public directory: Contains all the resources (images,videos) and static files which are displayed on the webpage and dont change like the favicon,logo
 
 3. Src Directory: main folder for the react code
