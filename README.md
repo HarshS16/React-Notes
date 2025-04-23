@@ -5,6 +5,7 @@ This repository holds my notes for the Javascript framework ReactJs
 React is Javascript library which is used to develop single page web applications. (SPA)
 
 It was developed by Facebook in 2011
+
 Used to build dynamic and interative user interfaces
 
 It is the most widely used JS library mainly used for frontend
