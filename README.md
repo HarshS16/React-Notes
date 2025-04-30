@@ -9,7 +9,6 @@ React is Javascript library which is used to develop single page web application
 It was developed by Facebook in 2011
 
 Used to build dynamic and interative user interfaces
-
 It is the most widely used JS library mainly used for frontend
 
 
