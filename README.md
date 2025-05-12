@@ -3,7 +3,6 @@
 This repository holds my notes for the Javascript framework ReactJs
 
 
-
 React is Javascript library which is used to develop single page web applications. (SPA)
 
 
